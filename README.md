@@ -1,4 +1,4 @@
-# Automação de Indicadores
+# RPA - Automação de Processos com Indicadores
 
 ### Objetivo: Criar um Projeto Completo que envolva a automatização de um processo feito no computador
 
